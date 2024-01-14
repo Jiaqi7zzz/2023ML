@@ -1,0 +1,390 @@
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000019.jpg 139,2,372,197,11 165,66,318,236,11 361,1,480,112,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000043.jpg 166,175,425,344,10 244,156,316,287,8 328,162,388,194,8 355,180,440,328,8 289,197,373,336,8 164,195,264,342,8 150,161,186,282,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000056.jpg 1,1,395,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000076.jpg 69,37,500,310,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000097.jpg 101,203,181,274,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000109.jpg 293,70,420,197,13 41,95,444,375,6 228,90,338,365,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000132.jpg 431,106,474,253,14 39,111,81,262,14 1,255,500,375,5
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000144.jpg 147,113,359,287,13 185,56,287,241,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000183.jpg 25,45,242,500,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000189.jpg 53,55,389,295,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000215.jpg 1,147,162,375,14 149,119,319,375,14 316,141,500,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000223.jpg 229,99,318,311,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000290.jpg 65,49,390,358,14 389,156,481,371,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000336.jpg 115,119,317,316,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000342.jpg 114,258,147,356,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000350.jpg 155,42,479,405,2 14,170,181,500,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000405.jpg 383,102,500,139,3 88,101,383,138,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000423.jpg 151,45,422,334,14 301,77,500,337,14 36,261,500,375,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000452.jpg 36,105,119,375,14 194,109,311,375,14 276,127,349,354,14 356,133,456,363,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000469.jpg 253,119,288,189,14 407,89,446,184,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000471.jpg 209,100,337,261,3 326,79,359,112,3 90,83,128,136,3 164,83,197,127,3 194,78,219,121,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000474.jpg 172,74,432,337,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000475.jpg 23,78,157,467,14 117,82,221,353,14 188,120,291,409,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000488.jpg 307,287,486,347,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000495.jpg 1,53,157,206,19 273,240,500,375,8 401,124,434,179,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000496.jpg 1,56,375,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000502.jpg 99,18,397,391,7 38,182,240,483,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000581.jpg 1,115,262,373,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000585.jpg 1,5,499,375,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000619.jpg 276,166,351,208,7 82,62,201,105,6 364,77,445,114,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000634.jpg 157,110,217,307,14 176,126,209,197,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000636.jpg 62,156,213,426,14 62,14,257,426,14 1,136,320,426,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000646.jpg 21,33,288,191,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000648.jpg 121,31,374,331,14 55,49,500,331,17 12,118,42,185,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000652.jpg 1,7,238,210,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000670.jpg 67,76,271,168,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000677.jpg 63,103,194,375,14 134,102,208,334,14 202,86,299,292,14 298,57,394,286,14 323,88,463,366,14 243,144,262,201,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000711.jpg 1,5,294,240,9 328,39,500,265,9 133,177,274,240,9 220,15,418,226,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000734.jpg 87,67,319,401,14 18,12,281,457,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000777.jpg 4,36,301,384,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000788.jpg 1,77,304,500,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000811.jpg 313,52,476,352,14 29,49,255,328,14 30,136,268,331,13 312,101,475,360,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000832.jpg 58,63,430,301,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000833.jpg 56,26,382,233,3 392,182,500,314,6 266,180,292,229,14 334,183,357,236,14 354,170,382,246,14 208,174,231,235,14 233,175,254,233,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000844.jpg 77,46,202,464,14 149,178,275,446,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000885.jpg 95,181,125,273,4 49,71,148,245,14 248,115,373,232,14 318,96,500,326,14 1,205,411,326,10
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000908.jpg 242,100,263,160,14 157,105,177,157,14 138,101,156,155,14 122,99,145,154,14 104,97,123,154,14 92,100,109,156,14 65,99,87,153,14 49,97,65,153,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000915.jpg 214,211,263,278,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000922.jpg 32,2,373,375,14 449,75,500,267,14 19,128,41,163,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_000944.jpg 37,61,460,277,6 230,69,257,90,14 106,87,236,131,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001004.jpg 54,113,388,309,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001021.jpg 1,154,176,356,19 95,159,375,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001030.jpg 36,205,406,374,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001034.jpg 212,101,351,336,14 322,113,438,336,14 266,132,354,336,14 104,113,229,336,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001047.jpg 124,180,357,291,3 346,159,425,239,3 423,144,500,216,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001054.jpg 1,55,500,308,0 284,77,331,134,14 237,108,272,154,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001055.jpg 188,77,288,259,14 152,168,280,375,14 404,2,500,157,14 180,50,453,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001071.jpg 1,28,500,274,7 272,164,500,312,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001080.jpg 286,374,314,449,14 312,380,333,450,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001089.jpg 1,23,500,333,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001122.jpg 159,47,322,500,14 1,23,167,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001168.jpg 1,25,490,296,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001188.jpg 196,123,371,333,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001196.jpg 323,117,500,215,6 176,151,195,222,14 198,155,220,219,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001245.jpg 54,1,379,375,14 149,103,368,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001274.jpg 1,114,485,274,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001296.jpg 27,92,375,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001304.jpg 1,256,19,309,4 13,254,34,309,4 26,255,49,309,4 43,254,63,308,4 58,255,76,308,4 73,254,93,308,4 88,253,106,307,4 102,252,120,306,4 116,254,135,307,4 131,252,150,306,4 146,250,165,305,4 162,250,180,304,4 177,251,194,304,4 190,250,209,304,4 206,249,222,304,4 220,249,237,303,4 235,249,253,304,4 313,55,330,99,4 121,75,449,375,14 400,164,500,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001306.jpg 92,123,184,294,14 90,230,159,298,14 269,169,333,283,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001329.jpg 123,194,342,389,6 115,184,160,286,14 35,179,68,267,14 63,190,87,269,14 84,209,107,266,14 108,179,129,263,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001374.jpg 1,28,492,280,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001389.jpg 39,73,290,428,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001431.jpg 26,88,373,500,14 102,249,160,429,4 265,227,324,403,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001434.jpg 173,169,350,370,14 238,160,297,254,14 211,271,346,375,8 1,262,73,365,8 330,194,434,306,8 52,215,284,375,10
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001437.jpg 338,159,457,375,14 170,216,267,375,14 1,183,135,375,14 126,185,186,375,14 247,187,343,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001460.jpg 112,1,493,367,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001503.jpg 150,39,332,270,14 1,44,75,142,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001516.jpg 250,281,293,314,14 49,1,442,333,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001550.jpg 303,45,455,348,11 47,44,252,366,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001607.jpg 257,27,500,375,14 66,20,293,334,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001629.jpg 171,57,419,375,14 1,138,102,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001652.jpg 222,217,335,478,14 287,132,335,224,14 1,187,169,405,14 1,110,149,306,14 1,107,335,500,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001668.jpg 52,65,324,500,14 69,131,199,392,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001702.jpg 1,1,166,500,8 97,66,299,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001714.jpg 126,184,215,353,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001731.jpg 249,37,367,375,14 256,156,353,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001791.jpg 54,313,111,491,14 45,393,112,500,1 121,316,151,391,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001814.jpg 262,231,295,341,14 216,179,258,283,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001820.jpg 253,45,500,321,5 1,18,256,329,5
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001825.jpg 352,103,394,192,14 266,133,354,199,14 317,68,342,165,14 382,67,416,174,14 354,64,387,127,14 283,100,320,172,14 286,65,313,128,14 244,113,266,173,14 228,107,246,172,14 33,100,87,199,14 107,129,193,203,14 125,101,181,185,14 163,77,190,172,14 189,72,225,170,14 217,77,253,172,14 89,72,130,180,14 69,68,99,177,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001830.jpg 288,156,500,334,6 130,150,299,226,6 1,156,51,194,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001866.jpg 126,25,472,287,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001908.jpg 190,321,232,335,6 244,312,293,328,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_001987.jpg 67,235,269,293,3 123,204,201,254,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002001.jpg 69,46,416,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002023.jpg 45,42,388,333,14 438,133,500,306,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002079.jpg 120,200,403,375,10 225,164,243,209,4 304,113,416,274,14 378,147,451,321,14 419,148,500,375,14 1,162,126,375,14 46,114,161,350,14 87,121,173,268,14 261,33,299,197,14 311,39,371,116,14 274,28,321,94,14 405,76,439,126,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002094.jpg 51,275,148,435,14 3,269,27,339,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002112.jpg 40,28,403,375,14 380,85,498,358,14 13,136,265,375,8 301,129,316,188,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002151.jpg 3,52,500,242,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002153.jpg 214,135,250,236,4 242,130,269,222,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002207.jpg 269,178,306,195,2 442,35,492,73,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002241.jpg 81,306,145,492,14 15,304,61,470,14 212,350,228,394,14 155,332,171,378,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002243.jpg 151,260,214,342,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002299.jpg 7,23,294,375,7 34,1,500,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002378.jpg 185,63,384,325,14 13,47,226,372,14 487,207,500,285,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002428.jpg 1,81,323,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002454.jpg 1,139,500,333,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002459.jpg 213,5,289,217,14 67,104,394,319,12 29,103,72,200,14 5,145,84,243,12 436,176,477,224,14 466,166,493,223,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002566.jpg 103,237,145,316,14 70,241,93,307,14 344,223,366,285,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002575.jpg 86,67,486,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002599.jpg 1,5,323,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002621.jpg 6,35,408,359,14 187,174,301,324,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002634.jpg 1,1,343,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002653.jpg 62,120,200,437,14 150,57,358,312,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002666.jpg 208,82,322,330,14 87,195,332,499,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002674.jpg 1,17,356,500,14 17,181,189,449,14 92,3,363,500,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002677.jpg 211,83,346,500,14 46,49,249,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002716.jpg 163,1,500,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002720.jpg 271,64,500,290,14 2,12,110,129,14 80,21,185,154,14 127,29,328,272,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002766.jpg 1,1,500,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002772.jpg 76,248,370,434,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002774.jpg 99,221,221,431,13 82,137,262,405,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002801.jpg 1,106,204,361,14 95,124,405,375,14 117,111,300,341,14 1,114,471,375,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002814.jpg 1,30,500,316,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002830.jpg 179,94,490,332,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002835.jpg 99,91,348,365,12 164,29,305,278,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002847.jpg 348,10,500,188,2 268,66,425,245,2 250,151,408,259,2 209,263,380,369,2 167,159,242,357,2 97,205,152,319,2 1,230,99,375,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002848.jpg 65,1,375,500,14 1,203,189,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002852.jpg 196,174,357,500,14 144,128,243,500,14 55,155,161,500,14 1,127,92,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002868.jpg 211,231,312,375,14 268,100,372,375,14 169,114,363,375,14 40,139,63,236,14 109,131,137,237,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002932.jpg 211,141,333,375,14 303,77,432,375,14 24,281,161,375,1 24,143,180,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_002955.jpg 224,128,338,286,14 25,94,264,306,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003020.jpg 37,37,183,375,14 305,68,445,375,14 191,122,270,280,14 183,211,319,375,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003063.jpg 7,239,159,474,7 159,238,237,486,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003093.jpg 243,1,500,375,14 141,100,282,273,14 238,148,500,375,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003135.jpg 258,324,335,460,15 1,270,50,443,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003136.jpg 1,23,71,193,14 111,52,397,374,14 172,68,226,181,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003147.jpg 120,161,213,263,16 209,204,257,278,16 265,219,321,295,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003228.jpg 1,176,41,320,7 90,109,152,233,14 103,27,303,375,14 279,89,442,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003245.jpg 16,173,307,375,14 180,14,396,370,14 1,140,336,375,8 142,77,394,335,8 360,116,500,351,10
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003261.jpg 17,68,490,223,0 432,170,465,181,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003264.jpg 89,212,326,373,10 226,224,323,375,8 111,213,208,369,8 83,207,127,342,8 106,196,160,228,8 219,202,265,232,8 265,206,313,236,8 106,175,144,218,19
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003266.jpg 31,51,465,303,5 475,207,495,260,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003313.jpg 17,147,500,251,3 188,152,254,226,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003321.jpg 150,151,406,238,5 460,194,500,226,6 405,186,474,221,6 11,206,94,264,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003347.jpg 136,49,402,283,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003359.jpg 112,97,260,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003380.jpg 251,186,299,214,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003417.jpg 1,299,210,476,11 75,175,186,266,11 1,117,68,267,14 1,13,51,174,14 103,7,366,491,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003434.jpg 216,68,458,231,19 60,264,120,322,15 17,126,98,296,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003452.jpg 1,42,477,307,6 225,33,441,136,6 435,48,475,138,14 188,44,231,85,14 171,44,202,89,14 152,47,176,89,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003453.jpg 1,1,435,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003484.jpg 372,80,482,329,2 12,16,87,191,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003497.jpg 202,46,281,104,11 72,48,145,122,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003526.jpg 414,144,437,174,14 438,134,472,178,14 410,269,433,334,14 433,277,453,342,14 63,72,239,375,14 202,55,368,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003542.jpg 51,73,309,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003576.jpg 183,63,404,320,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003611.jpg 97,1,482,375,14 79,1,247,272,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003619.jpg 273,204,500,374,14 311,57,500,277,14 79,55,183,210,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003638.jpg 75,103,273,500,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003674.jpg 121,75,209,213,14 134,48,210,213,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003689.jpg 264,99,396,375,14 1,296,230,375,8 356,261,500,375,8 349,33,410,79,15 244,219,399,362,8 364,157,466,271,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003691.jpg 121,94,468,304,5 471,174,500,206,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003701.jpg 95,78,487,283,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003726.jpg 20,95,274,382,8 1,78,281,343,7 351,1,500,218,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003753.jpg 322,186,376,236,19 248,225,349,375,8 102,224,160,375,8 164,215,238,329,8 150,213,193,320,8 1,250,190,375,10
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003777.jpg 140,1,432,288,5 80,112,142,223,5 65,153,90,193,5
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003791.jpg 103,47,349,500,14 17,129,153,500,14 1,1,222,76,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003799.jpg 148,106,389,300,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003892.jpg 129,87,265,279,14 29,122,389,306,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003894.jpg 36,82,459,278,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003913.jpg 70,91,301,427,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003932.jpg 49,1,404,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003933.jpg 126,66,312,326,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003943.jpg 69,110,402,223,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003967.jpg 265,33,465,375,14 106,186,225,337,14 66,63,231,375,14 420,152,500,363,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003984.jpg 4,27,436,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_003995.jpg 291,176,421,295,19 250,197,500,375,14 156,88,314,375,14 81,58,281,316,14 1,24,282,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004002.jpg 110,109,345,375,14 287,59,500,344,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004003.jpg 229,80,285,239,14 158,111,175,137,15 135,114,151,136,15 144,177,223,252,15 377,219,467,331,8 321,143,416,289,15 27,119,138,252,15 15,170,115,272,15 44,217,125,308,15 1,201,116,323,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004110.jpg 1,1,414,375,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004120.jpg 266,116,312,176,7 86,26,252,250,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004125.jpg 189,178,303,300,12 210,174,251,239,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004127.jpg 22,12,472,358,6 272,27,500,241,6 313,8,397,39,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004137.jpg 96,149,188,375,14 171,120,276,375,14 267,116,389,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004195.jpg 30,122,304,277,12 157,71,223,203,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004224.jpg 189,193,311,242,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004246.jpg 181,1,500,375,14 1,1,257,352,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004276.jpg 115,11,500,375,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004292.jpg 283,224,352,278,16 476,238,499,264,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004296.jpg 35,31,301,408,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004307.jpg 205,51,355,364,14 1,64,328,477,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004385.jpg 168,149,282,241,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004399.jpg 260,154,328,266,13 238,114,316,232,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004414.jpg 33,87,441,344,6 397,70,426,82,6 424,67,449,80,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004435.jpg 83,1,153,109,15 13,25,74,125,8 101,29,214,184,14 131,77,355,336,14 142,52,469,375,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004436.jpg 55,1,195,300,14 281,103,400,300,14 218,111,339,300,14 18,95,40,153,14 4,96,55,119,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004452.jpg 211,114,297,204,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004458.jpg 427,65,500,295,6 323,124,366,144,6 200,119,260,141,6 365,127,387,144,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004459.jpg 1,47,341,375,14 150,212,274,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004469.jpg 19,175,146,228,3 242,193,275,209,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004482.jpg 27,97,109,209,14 1,125,59,375,14 102,107,212,375,14 166,97,256,375,14 269,91,391,371,14 355,152,441,297,14 51,175,118,282,1 356,150,500,254,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004519.jpg 1,1,334,375,14 112,10,329,327,14 238,33,500,297,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004610.jpg 61,50,411,298,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004615.jpg 12,1,485,375,13 1,1,352,290,13 1,1,303,182,13 447,1,500,100,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004648.jpg 135,247,406,333,0 71,91,500,226,0 22,188,153,238,0 417,99,500,147,0 387,26,500,96,0 330,214,460,292,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004687.jpg 45,72,365,303,12 34,201,102,364,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004702.jpg 207,166,429,333,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004725.jpg 26,165,382,494,5
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004752.jpg 13,79,338,333,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004764.jpg 22,109,447,417,12 202,32,331,239,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004774.jpg 55,111,137,277,14 103,264,182,318,11 227,263,277,339,11 50,233,352,457,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004786.jpg 199,10,462,233,13 37,10,385,370,13 439,17,500,102,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004838.jpg 131,1,341,375,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004847.jpg 1,74,500,299,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004856.jpg 52,146,269,305,7 225,79,455,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004868.jpg 2,3,320,355,12 307,67,496,356,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004875.jpg 361,23,486,180,14 137,244,310,375,14 88,12,200,125,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004942.jpg 208,142,474,312,2 35,71,258,240,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004968.jpg 99,258,131,284,5 2,255,43,368,14 48,258,63,313,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_004979.jpg 176,55,222,228,4 1,131,495,375,10 209,1,422,156,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005023.jpg 244,191,278,290,4 218,223,246,289,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005032.jpg 1,96,157,350,6 67,131,221,276,6 228,79,412,342,14 290,178,386,375,13
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005055.jpg 110,161,164,261,14 185,125,220,203,14 108,212,159,289,1
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005089.jpg 155,149,299,276,19 332,139,412,279,14 325,303,360,374,4 375,270,409,346,4 225,272,249,321,4 1,276,59,374,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005114.jpg 6,143,498,319,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005182.jpg 259,22,475,193,2 111,1,211,257,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005240.jpg 221,92,379,319,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005250.jpg 243,197,311,226,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005252.jpg 38,131,350,273,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005255.jpg 157,63,490,294,19 68,182,157,215,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005281.jpg 142,96,500,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005327.jpg 1,48,414,375,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005348.jpg 5,58,500,287,10 1,31,79,162,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005359.jpg 21,187,158,211,3 228,192,295,360,14 275,167,352,360,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005408.jpg 90,70,461,353,12 216,48,337,201,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005423.jpg 187,163,447,299,13 1,107,177,300,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005460.jpg 90,1,364,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005494.jpg 219,127,500,375,16 73,90,196,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005527.jpg 1,113,269,313,11 208,93,364,309,11 192,1,379,299,14 319,28,500,228,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005544.jpg 337,47,500,324,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005558.jpg 62,187,389,410,12 136,79,231,272,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005563.jpg 301,52,382,127,14 75,186,162,324,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005589.jpg 1,1,500,439,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005599.jpg 42,152,117,299,1 186,200,500,375,1 76,181,299,351,1 447,103,500,369,14 269,90,430,375,14 265,169,362,356,14 380,90,426,211,14 150,74,256,358,14 88,85,147,297,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005608.jpg 372,194,500,250,8 304,251,416,374,8 352,230,500,374,10 30,1,94,76,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005668.jpg 114,128,500,375,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005683.jpg 385,138,456,229,3 79,127,154,228,3 221,143,289,228,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005691.jpg 128,1,480,278,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005698.jpg 73,205,298,384,8 229,34,386,384,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005706.jpg 22,12,233,324,16 177,13,485,364,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005732.jpg 87,57,215,375,14 1,114,54,172,19 455,98,500,138,19 267,56,303,149,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005763.jpg 40,83,399,245,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005788.jpg 108,83,274,375,14 187,116,456,344,14 279,56,500,269,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005832.jpg 1,88,69,147,6 160,127,289,228,6 48,94,109,311,14 96,58,178,314,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005846.jpg 109,94,430,375,1 189,43,368,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005848.jpg 247,238,375,380,8 149,132,270,493,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005853.jpg 179,157,310,348,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005867.jpg 332,117,364,211,4 452,102,492,209,4 64,63,154,206,4 150,1,297,77,14 347,15,500,333,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005893.jpg 23,1,483,316,13 1,1,500,196,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005895.jpg 103,131,347,179,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005934.jpg 219,34,500,289,12 318,1,428,142,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005970.jpg 1,1,330,288,1
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_005979.jpg 52,259,333,500,11 1,191,172,330,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006046.jpg 203,308,375,365,3 88,196,375,359,3 1,187,245,331,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006055.jpg 29,50,434,246,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006090.jpg 126,133,400,263,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006096.jpg 132,76,344,238,12 65,83,184,198,12 213,36,257,166,14 134,52,170,148,14 43,88,114,187,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006099.jpg 1,6,372,473,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006100.jpg 27,206,189,431,16 168,221,301,440,16 16,110,81,178,16 36,95,120,163,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006119.jpg 76,34,500,338,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006158.jpg 103,157,267,281,18 316,192,376,232,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006164.jpg 68,71,424,321,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006256.jpg 95,39,395,375,14 87,98,292,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006273.jpg 155,240,418,375,19 124,169,398,324,14 1,143,162,330,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006282.jpg 1,121,105,372,4 64,101,160,337,4 106,78,192,297,4 170,61,244,275,4 231,47,298,257,4 289,42,356,251,4 353,36,412,244,4 404,38,470,261,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006320.jpg 112,111,292,297,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006337.jpg 245,110,306,195,8 335,114,365,150,15 100,264,147,345,15 96,100,208,192,15 65,173,162,268,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006365.jpg 1,229,38,258,6 23,234,78,254,6 89,77,436,301,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006369.jpg 150,178,259,262,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006397.jpg 33,183,385,436,12 197,137,294,268,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006401.jpg 51,89,455,225,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006429.jpg 56,109,228,335,12 198,36,403,337,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006447.jpg 102,44,288,364,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006474.jpg 178,128,241,284,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006534.jpg 17,18,476,363,15 411,158,500,328,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006588.jpg 1,1,189,99,10 186,20,392,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006591.jpg 190,1,393,71,19 388,1,500,85,19
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006604.jpg 1,97,500,375,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006611.jpg 1,183,157,343,8 167,185,346,343,8 90,219,414,343,10 1,109,205,343,14 338,95,497,343,14 203,250,229,278,15 25,88,114,142,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006645.jpg 54,82,500,375,1
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006662.jpg 51,90,180,221,19 1,110,54,220,19
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006684.jpg 1,96,500,378,8 45,155,255,378,14 87,64,484,378,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006705.jpg 114,165,393,375,10 1,107,124,375,14 63,92,147,373,14 116,82,197,308,14 115,63,247,247,14 336,120,487,375,14 341,103,414,266,14 322,85,376,228,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006716.jpg 26,43,245,308,11 199,29,434,290,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006720.jpg 209,114,257,166,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006753.jpg 305,191,340,239,7 161,197,233,242,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006785.jpg 1,1,500,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006792.jpg 113,1,294,487,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006797.jpg 124,133,352,286,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006817.jpg 229,126,387,218,7 148,103,211,188,7 199,109,272,192,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006828.jpg 124,122,220,340,15 124,254,172,348,15 92,233,136,358,15 1,233,117,376,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006841.jpg 226,136,333,286,8 311,132,392,282,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006864.jpg 58,55,357,375,14 88,201,321,375,14 129,234,246,375,14 96,2,192,143,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006868.jpg 275,93,371,216,7 1,38,472,375,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006951.jpg 128,102,472,207,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006952.jpg 224,159,243,195,4 137,72,257,206,14 306,185,436,375,14 98,186,267,375,14 404,123,497,318,14 283,73,392,217,14 3,28,162,300,14 199,183,356,364,10
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006961.jpg 9,137,357,374,6 339,1,437,52,3 265,33,341,78,3 265,187,473,321,6 373,204,483,243,6 116,1,500,230,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_006986.jpg 42,98,447,289,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007050.jpg 134,65,422,226,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007058.jpg 128,1,498,334,14 165,193,234,334,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007081.jpg 234,55,477,271,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007112.jpg 160,184,236,457,14 84,141,179,454,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007130.jpg 1,1,500,357,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007143.jpg 42,156,363,205,3 398,160,466,204,3
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007145.jpg 1,1,500,274,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007151.jpg 81,40,443,298,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007169.jpg 157,331,329,475,11 36,109,174,373,14 177,122,249,295,14 160,203,375,320,17 1,180,50,263,8 1,314,307,500,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007221.jpg 470,93,492,106,6 446,93,475,108,6 350,95,411,124,6 304,92,364,115,6 53,90,190,143,6 400,98,459,131,6 439,105,500,153,6 121,105,424,230,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007227.jpg 201,210,262,249,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007247.jpg 25,42,339,464,18 339,320,359,408,14 1,319,36,431,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007260.jpg 1,132,500,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007279.jpg 127,65,435,353,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007350.jpg 37,141,482,263,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007363.jpg 93,105,349,323,7 1,1,500,375,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007384.jpg 1,33,449,333,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007390.jpg 87,196,128,244,15 412,111,443,140,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007431.jpg 389,176,404,222,14 119,173,253,232,6 288,176,343,207,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007434.jpg 155,72,423,321,2 240,1,500,157,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007461.jpg 24,28,481,275,11 22,7,123,62,15 115,9,154,51,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007488.jpg 43,60,419,298,5 143,228,226,300,13 165,209,197,281,14 1,234,50,286,6 446,230,500,258,6 417,239,451,292,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007509.jpg 179,1,500,375,14 1,1,186,317,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007533.jpg 1,117,444,278,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007538.jpg 110,69,429,375,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007565.jpg 1,203,318,500,13 86,102,254,500,14 170,119,275,462,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007594.jpg 87,187,183,334,2 386,143,450,260,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007635.jpg 1,1,500,361,5
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007643.jpg 1,349,375,498,3 45,294,375,397,3 79,201,375,297,3 114,69,255,112,3 125,89,209,117,3 268,122,375,175,3 151,175,176,242,14 197,268,243,371,14 67,254,130,365,14 118,119,175,159,3 1,95,57,149,3 267,180,293,242,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007668.jpg 196,70,415,272,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007706.jpg 1,56,500,375,8 31,68,383,375,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007745.jpg 132,243,193,282,11 28,221,71,257,11 130,223,170,249,11 458,199,486,259,14 193,187,224,257,14 53,187,114,279,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007779.jpg 80,141,500,258,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007805.jpg 117,3,379,375,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007839.jpg 314,32,431,129,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007923.jpg 8,39,375,500,14 178,319,244,490,4 113,357,189,500,4
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007932.jpg 76,87,484,333,9 1,292,44,333,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007964.jpg 77,98,381,375,7
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007970.jpg 1,49,500,253,0 311,156,371,331,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_007988.jpg 51,23,292,500,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008001.jpg 1,1,327,209,18 425,198,500,259,6
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008004.jpg 31,107,474,258,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008052.jpg 1,83,437,354,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008064.jpg 119,209,310,375,1 1,241,74,375,1 104,126,159,347,14 149,149,207,331,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008084.jpg 40,273,247,500,1 87,35,292,488,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008121.jpg 1,191,302,500,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008130.jpg 5,1,488,363,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008155.jpg 208,82,369,337,14 367,210,500,337,10 371,206,484,337,8 416,174,490,325,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008220.jpg 402,136,467,227,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008237.jpg 358,217,383,307,15 276,228,298,303,15 244,249,261,296,15 18,266,39,320,14 62,256,76,291,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008274.jpg 33,3,465,375,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008314.jpg 73,111,291,281,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008322.jpg 191,145,229,179,16 237,139,274,181,16 271,151,306,186,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008330.jpg 169,258,223,390,4 234,296,289,395,4 217,129,356,229,10 231,142,314,231,8 188,129,252,212,8 316,152,372,222,8 160,27,249,218,15
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008337.jpg 154,124,442,350,1 180,33,391,272,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008342.jpg 175,59,500,265,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008346.jpg 15,57,312,492,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008370.jpg 106,262,208,328,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008376.jpg 82,141,295,262,2 317,94,500,328,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008391.jpg 203,120,361,335,13 202,29,361,293,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008428.jpg 30,50,454,479,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008439.jpg 15,208,138,308,8 379,157,489,253,19 244,200,312,314,8
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008447.jpg 66,109,379,474,2
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008487.jpg 71,167,235,328,12 307,109,371,340,14 309,125,347,217,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008496.jpg 88,116,423,217,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008500.jpg 216,88,462,331,12 180,83,219,130,14 119,63,184,149,14 59,103,101,161,14 93,96,124,136,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008501.jpg 154,160,275,232,6 12,30,500,174,0
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008533.jpg 80,5,435,376,12
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008541.jpg 17,86,282,445,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008560.jpg 159,189,500,375,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008578.jpg 132,32,500,238,17 22,184,284,307,11 331,49,468,144,11 216,80,332,142,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008611.jpg 105,110,374,282,1
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008622.jpg 193,1,500,267,17 223,59,386,136,11 69,254,168,358,11
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008623.jpg 57,42,450,322,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008642.jpg 1,47,477,332,17
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008668.jpg 249,72,285,122,16 180,83,208,108,16
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008697.jpg 35,1,375,500,18 196,88,307,407,14
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008713.jpg 184,148,291,201,9
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008735.jpg 99,85,297,290,18
+D:\Desktop\files\三秋冬\ML\Project\reference\yolo3-pytorch-master\VOCdevkit/VOC2007/JPEGImages/2008_008758.jpg 216,218,284,311,1 220,158,283,289,14
